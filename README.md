@@ -1,2 +1,2 @@
-# default github labels, scheme 1
+# Github labels, scheme 1
 
